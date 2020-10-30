@@ -7,7 +7,7 @@ I'm a student currently pursuing B.Tech in Computer Engineering at [JC Bose Univ
 - Learning in public on [nikhilraghav.codes](https://nikhilraghav.codes)
 - Solving algorithmic problems on [Codeforces](https://codeforces.com/profile/nikhil1_raghav), [Codechef](https://www.codechef.com/users/nikhil1_raghav) and [Topcoder](https://www.topcoder.com/members/nikhil1_raghav/)
 
-
+---
 ### Recent updates on blog
 <!-- blog starts -->
 * [Self updating readme on github](https://nikhilraghav.codes/posts/selfupdate/)
@@ -19,6 +19,7 @@ I'm a student currently pursuing B.Tech in Computer Engineering at [JC Bose Univ
 * [Big Browser is watching](https://nikhilraghav.codes/posts/palemoon/)
 * [Private search engine in 5 minutes](https://nikhilraghav.codes/posts/searx/)
 <!-- blog ends -->
-More on [nikhilraghav.codes](https://nikhilraghav.codes)
+---
+[How this works..](https://nikhilraghav.codes/posts/selfupdate/)
 
 
