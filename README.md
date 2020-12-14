@@ -1,11 +1,8 @@
-## Hi, I'm Nikhil :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=nikhil1_raghav&style=flat-square)](https://codeforces.com/profile/nikhil1_raghav)![Atcoder](https://run.kaist.ac.kr/badges/topcoder/nikhil1_raghav.svg)![Topcoder](https://run.kaist.ac.kr/badges/codeforces/nikhil1_raghav.svg)![Codeforces](https://run.kaist.ac.kr/badges/atcoder/nikhil1_raghav.svg)
+## Hi, I'm Nikhil :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=nikhil1_raghav&style=flat-square)](https://codeforces.com/profile/nikhil1_raghav)[![Topcoder](https://run.kaist.ac.kr/badges/topcoder/nikhil1_raghav.svg)](https://topcoder.com/members/nikhil1_raghav)[![Codeforces](https://run.kaist.ac.kr/badges/codeforces/nikhil1_raghav.svg)](https://codeforces.com/profile/nikhil1_raghav)[![Atcoder](https://run.kaist.ac.kr/badges/atcoder/nikhil1_raghav.svg)](https://atcoder.jp/nikhil1_raghav)
  <p align="center">
  <a href="https://nikhilraghav.codes">
   <img src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="300", height="200" title="Credit to dianapietrzyk for most of the gifs",/> <br>
   </a>
-
-   
-   
   <img src="https://github-readme-stats.vercel.app/api?username=nikhil1raghav&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true", width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1raghav&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
   </p>
