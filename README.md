@@ -1,4 +1,5 @@
-## Hi, I'm Nikhil :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=nikhil1_raghav&style=flat-square)](https://codeforces.com/profile/nikhil1_raghav)[![Topcoder](https://run.kaist.ac.kr/badges/topcoder/nikhil1_raghav.svg)](https://topcoder.com/members/nikhil1_raghav)[![Codeforces](https://run.kaist.ac.kr/badges/codeforces/nikhil1_raghav.svg)](https://codeforces.com/profile/nikhil1_raghav)[![Atcoder](https://run.kaist.ac.kr/badges/atcoder/nikhil1_raghav.svg)](https://atcoder.jp/nikhil1_raghav)
+## Hi, I'm Nikhil :wave: 
+ [![Topcoder](https://run.kaist.ac.kr/badges/topcoder/nikhil1_raghav.svg)](https://topcoder.com/members/nikhil1_raghav) [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/nikhil1_raghav.svg)](https://codeforces.com/profile/nikhil1_raghav) [![Atcoder](https://run.kaist.ac.kr/badges/atcoder/nikhil1_raghav.svg)](https://atcoder.jp/nikhil1_raghav)
  <p align="center">
  <a href="https://nikhilraghav.codes">
   <img src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="300", height="200" title="Credit to dianapietrzyk for most of the gifs",/> <br>
@@ -9,8 +10,9 @@
 
 I'm an engineering student at JC Bose University, Faridabad, India.
 
-- :hammer_and_pick: Javascript for web applications, C++/Python for competitive programming, Bash/Python for scripting
+- :hammer_and_pick: Javascript for web applications, C++/Python for competitive programming, Bash/Python for scripting, GIMP & inkscape for graphic designing
 - :sunny: [Website](https://nikhilraghav.codes)
+- :
 - :seedling: Arch, i3, neovim
 
 ---
