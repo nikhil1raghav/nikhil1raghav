@@ -12,7 +12,7 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 
 - :hammer_and_pick: Javascript for web applications, C++/Python for competitive programming, Bash/Python for scripting, GIMP & inkscape for graphic designing
 - :sunny: [Website](https://nikhilraghav.codes)
-- :
+- :camera: [Gallery](https://gallery.nikhilraghav.codes)
 - :seedling: Arch, i3, neovim
 
 ---
