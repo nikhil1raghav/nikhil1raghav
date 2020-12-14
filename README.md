@@ -1,13 +1,23 @@
-## Hi, I'm Nikhil :wave:
+## Hi, I'm Nikhil :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=nikhil1_raghav&style=flat-square)](https://codeforces.com/profile/nikhil1_raghav)![Atcoder](https://run.kaist.ac.kr/badges/topcoder/nikhil1_raghav.svg)![Topcoder](https://run.kaist.ac.kr/badges/codeforces/nikhil1_raghav.svg)![Codeforces](https://run.kaist.ac.kr/badges/atcoder/nikhil1_raghav.svg)
+ <p align="center">
+ <a href="https://nikhilraghav.codes">
+  <img src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="300", height="200" title="Credit to dianapietrzyk for most of the gifs",/> <br>
+  </a>
 
-I'm a student currently pursuing B.Tech in Computer Engineering at [JC Bose University](https://jcboseust.ac.in). I love solving algorithmic problems, graphic designing, working with Jamstack(JS, APIs+Markup) ,ricing linux and learning new open source tools in free time to make life easier.
+   
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil1raghav&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true", width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1raghav&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
+  </p>
 
+I'm an engineering student at JC Bose University, Faridabad, India.
 
-## Find me around the web 🌎
-- Learning in public on [nikhilraghav.codes](https://nikhilraghav.codes)
-- Solving algorithmic problems on [Codeforces](https://codeforces.com/profile/nikhil1_raghav), [Codechef](https://www.codechef.com/users/nikhil1_raghav) and [Topcoder](https://www.topcoder.com/members/nikhil1_raghav/)
+- :hammer_and_pick: Javascript for web applications, C++/Python for competitive programming, Bash/Python for scripting
+- :sunny: [Website](https://nikhilraghav.codes)
+- :seedling: Arch, i3, neovim
 
 ---
+
 ### Recent updates on blog
 <!-- blog starts -->
 * [Self updating readme on github](https://nikhilraghav.codes/posts/selfupdate/)
