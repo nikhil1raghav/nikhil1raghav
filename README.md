@@ -19,6 +19,7 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 
 ### Recent updates on blog
 <!-- blog starts -->
+* [Codeforces Round #690 (Div. 3)](https://nikhilraghav.codes/posts/cf1462/)
 * [Codechef October Lunchtime 2020 Division 1](https://nikhilraghav.codes/posts/ltime89/)
 * [Bash](https://nikhilraghav.codes/wikipages/bash/)
 * [Sockets](https://nikhilraghav.codes/wikipages/sockets/)
@@ -26,7 +27,6 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 * [Git](https://nikhilraghav.codes/wikipages/git/)
 * [Codeforces Round #676 (Div. 2)](https://nikhilraghav.codes/posts/cf1421/)
 * [Codeforces Raif Round 1 [Div.1 + Div.2]](https://nikhilraghav.codes/posts/cf1428/)
-* [Dilworth theorem and calculating length of all kind of Sequences](https://nikhilraghav.codes/posts/sequences/)
 <!-- blog ends -->
 ---
 [How this works..](https://nikhilraghav.codes/posts/selfupdate/)
