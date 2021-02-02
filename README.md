@@ -19,7 +19,14 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 
 ### Recent updates on blog
 <!-- blog starts -->
-
+* [Monday Links #1](https://nikhilraghav.codes/posts/links1/)
+* [Introduction to Competitive Programming](https://nikhilraghav.codes/posts/cpintro/)
+* [Codeforces Round #690 (Div. 3)](https://nikhilraghav.codes/posts/cf1462/)
+* [Codechef October Lunchtime 2020 Division 1](https://nikhilraghav.codes/posts/ltime89/)
+* [Bash](https://nikhilraghav.codes/wikipages/bash/)
+* [Sockets](https://nikhilraghav.codes/wikipages/sockets/)
+* [Self updating readme on github](https://nikhilraghav.codes/posts/selfupdate/)
+* [Git](https://nikhilraghav.codes/wikipages/git/)
 <!-- blog ends -->
 ---
 [How this works..](https://nikhilraghav.codes/posts/selfupdate/)
