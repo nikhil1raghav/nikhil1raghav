@@ -19,6 +19,7 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 
 ### Recent updates on blog
 <!-- blog starts -->
+* [Solving A XOR operation - Hackerearth](https://nikhilraghav.codes/posts/xor-operation/)
 * [Monday Links #2](https://nikhilraghav.codes/posts/links2/)
 * [Monday Links #1](https://nikhilraghav.codes/posts/links1/)
 * [Introduction to Competitive Programming](https://nikhilraghav.codes/posts/cpintro/)
@@ -26,7 +27,6 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 * [Codechef October Lunchtime 2020 Division 1](https://nikhilraghav.codes/posts/ltime89/)
 * [Bash](https://nikhilraghav.codes/wikipages/bash/)
 * [Sockets](https://nikhilraghav.codes/wikipages/sockets/)
-* [Self updating readme on github](https://nikhilraghav.codes/posts/selfupdate/)
 <!-- blog ends -->
 ---
 [How this works..](https://nikhilraghav.codes/posts/selfupdate/)
