@@ -13,13 +13,14 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 - :hammer_and_pick: Javascript for web applications, C++/Python for competitive programming, Bash/Python for scripting, GIMP & inkscape for graphic designing
 - :sunny: [Website](https://nikhilraghav.codes)
 - :camera: [Gallery](https://gallery.nikhilraghav.codes)
-- :seedling: Arch, i3, neovim
+- :seedling: Arch, i3wm, neovim
 
 ---
 
 ### Recent updates on blog
 <!-- blog starts -->
-
+* [How to setup MPD with blissify](https://nikhilraghav.codes/posts/mpd-with-bliss)
+* [[Tutorial] I. Magic Potion - Asia Nanjing Regional Contest 2018-19](https://nikhilraghav.codes/posts/magic-potion.md)
 * [CSES Math Problemset Tutorial](https://nikhilraghav.codes/posts/cses-math/)
 * [Monday Links #3](https://nikhilraghav.codes/posts/links3/)
 * [Solving A XOR operation - Hackerearth](https://nikhilraghav.codes/posts/xor-operation/)
