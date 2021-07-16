@@ -1,5 +1,5 @@
 ## Hi, I'm Nikhil :wave: 
- [![Topcoder](https://run.kaist.ac.kr/badges/topcoder/nikhil1_raghav.svg)](https://topcoder.com/members/nikhil1_raghav) [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/nikhil1_raghav.svg)](https://codeforces.com/profile/nikhil1_raghav) [![Atcoder](https://run.kaist.ac.kr/badges/atcoder/nikhil1_raghav.svg)](https://atcoder.jp/nikhil1_raghav)
+ [![Topcoder](https://cp-logo.vercel.app/topcoder/nikhil1_raghav)](https://topcoder.com/members/nikhil1_raghav) [![Codeforces](https://cp-logo.vercel.app/codeforces/nikhil1_raghav)](https://codeforces.com/profile/nikhil1_raghav) [![Atcoder](https://cp-logo.vercel.app/atcoder/nikhil1_raghav)](https://atcoder.jp/users/nikhil1_raghav) [![Codechef](https://cp-logo.vercel.app/codechef/nikhil1_raghav)](https://codechef.com/users/nikhil1_raghav)
  <p align="center">
  <a href="https://nikhilraghav.codes">
   <img src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="300", height="200" title="Credit to dianapietrzyk for most of the gifs",/> <br>
