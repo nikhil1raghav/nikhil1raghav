@@ -19,15 +19,14 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 
 ### Recent updates on blog
 <!-- blog starts -->
-* [How to setup MPD with blissify](https://nikhilraghav.codes/posts/mpd-with-bliss)
-* [[Tutorial] I. Magic Potion - Asia Nanjing Regional Contest 2018-19](https://nikhilraghav.codes/posts/magic-potion.md)
+* [Minimum changes to make XOR of all segments of a fixed length zero](https://nikhilraghav.codes/posts/subarray-xor-zero/)
+* [How to set up mpd with blissify](https://nikhilraghav.codes/posts/mpd-with-bliss/)
+* [[Tutorial] I. Magic Potion - Asia Nanjing Regional Contest 2018-19](https://nikhilraghav.codes/posts/magic-potion/)
 * [CSES Math Problemset Tutorial](https://nikhilraghav.codes/posts/cses-math/)
 * [Monday Links #3](https://nikhilraghav.codes/posts/links3/)
 * [Solving A XOR operation - Hackerearth](https://nikhilraghav.codes/posts/xor-operation/)
 * [Monday Links #2](https://nikhilraghav.codes/posts/links2/)
 * [Monday Links #1](https://nikhilraghav.codes/posts/links1/)
-* [Introduction to Competitive Programming](https://nikhilraghav.codes/posts/cpintro/)
-* [Codeforces Round #690 (Div. 3)](https://nikhilraghav.codes/posts/cf1462/)
 <!-- blog ends -->
 ---
 [How this works..](https://nikhilraghav.codes/posts/selfupdate/)
