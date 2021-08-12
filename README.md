@@ -11,8 +11,8 @@
 I'm an engineering student at JC Bose University, Faridabad, India.
 
 - :hammer_and_pick: Go, JS, Python, C, C++ and GIMP & inkscape for graphic designing
-- :sunny: [Website](https://nikhilraghav.codes)
-- :camera: [Gallery](https://gallery.nikhilraghav.codes)
+- :sunny: [Website](https://raghavnikhil.com)
+- :camera: [Gallery](https://gallery.raghavnikhil.com)
 - :seedling: Arch, i3wm, neovim
 
 ---
@@ -29,6 +29,6 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 * [Monday Links #1](https://raghavnikhil.com/posts/links1/)
 <!-- blog ends -->
 ---
-[How this works..](https://nikhilraghav.codes/posts/selfupdate/)
+[How this works..](https://raghavnikhil.com/posts/selfupdate/)
 
 
