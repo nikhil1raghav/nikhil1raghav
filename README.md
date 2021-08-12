@@ -19,7 +19,14 @@ I'm an engineering student at JC Bose University, Faridabad, India.
 
 ### Recent updates on blog
 <!-- blog starts -->
-
+* [Minimum changes to make XOR of all segments of a fixed length zero](https://raghavnikhil.com/posts/subarray-xor-zero/)
+* [How to set up mpd with blissify](https://raghavnikhil.com/posts/mpd-with-bliss/)
+* [[Tutorial] I. Magic Potion - Asia Nanjing Regional Contest 2018-19](https://raghavnikhil.com/posts/magic-potion/)
+* [CSES Math Problemset Tutorial](https://raghavnikhil.com/posts/cses-math/)
+* [Monday Links #3](https://raghavnikhil.com/posts/links3/)
+* [Solving A XOR operation - Hackerearth](https://raghavnikhil.com/posts/xor-operation/)
+* [Monday Links #2](https://raghavnikhil.com/posts/links2/)
+* [Monday Links #1](https://raghavnikhil.com/posts/links1/)
 <!-- blog ends -->
 ---
 [How this works..](https://nikhilraghav.codes/posts/selfupdate/)
