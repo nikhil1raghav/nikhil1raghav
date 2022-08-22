@@ -8,27 +8,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1raghav&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
   </p>
 
-I'm an engineering student at JC Bose University, Faridabad, India.
 
-- :hammer_and_pick: Go, JS, Python, C, C++ and GIMP & inkscape for graphic designing
-- :sunny: [Website](https://raghavnikhil.com)
-- :camera: [Gallery](https://gallery.raghavnikhil.com)
-- :seedling: Arch, i3wm, neovim
+- :hammer_and_pick: Golang, JS, Python, C, C++ and GIMP & inkscape for graphic designing
+- :sunny: Website : [purpleterm.com](https://purpleterm.com)
+- :camera: [Gallery](https://gallery.purpleterm.com)
+- [Newsletter](https://nikhilr.substack.com/)
 
 ---
 
 ### Recent updates on blog
 <!-- blog starts -->
-* [[Tutorial] Codecadet XXII](https://raghavnikhil.com/posts/codecadet-xxii-editorial/)
-* [Minimum changes to make XOR of all segments of a fixed length zero](https://raghavnikhil.com/posts/subarray-xor-zero/)
-* [How to set up mpd with blissify](https://raghavnikhil.com/posts/mpd-with-bliss/)
-* [[Tutorial] I. Magic Potion - Asia Nanjing Regional Contest 2018-19](https://raghavnikhil.com/posts/magic-potion/)
-* [CSES Math Problemset Tutorial](https://raghavnikhil.com/posts/cses-math/)
-* [Monday Links #3](https://raghavnikhil.com/posts/links3/)
-* [Solving A XOR operation - Hackerearth](https://raghavnikhil.com/posts/xor-operation/)
-* [Monday Links #2](https://raghavnikhil.com/posts/links2/)
+* [[Tutorial] Codecadet XXII](https://purpleterm.com/posts/codecadet-xxii-editorial/)
+* [Minimum changes to make XOR of all segments of a fixed length zero](https://purpleterm.com/posts/subarray-xor-zero/)
+* [How to set up mpd with blissify](https://purpleterm.com/posts/mpd-with-bliss/)
+* [[Tutorial] I. Magic Potion - Asia Nanjing Regional Contest 2018-19](https://purpleterm.com/posts/magic-potion/)
+* [CSES Math Problemset Tutorial](https://purpleterm.com/posts/cses-math/)
+* [Monday Links #3](https://purpleterm.com/posts/links3/)
+* [Solving A XOR operation - Hackerearth](https://purpleterm.com/posts/xor-operation/)
+* [Monday Links #2](https://purpleterm.com/posts/links2/)
 <!-- blog ends -->
----
-[How this works..](https://raghavnikhil.com/posts/selfupdate/)
+
 
 
