@@ -10,7 +10,7 @@
 
 
 - :hammer_and_pick: Golang, JS, Python, C, C++ and GIMP & inkscape for graphic designing
-- :sunny: Website : [purpleterm.com](https://nikhilraghav.com)
+- :sunny: Website : [nikhilraghav.com](https://nikhilraghav.com)
 - :camera: [Gallery](https://gallery.nikhilraghav.com)
 - [Newsletter](https://purpleterminal.substack.com/)
 
