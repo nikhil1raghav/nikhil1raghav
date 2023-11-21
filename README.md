@@ -8,6 +8,7 @@
 - 🌏 [nikhilraghav.com](https://nikhilraghav.com)
 - 🗞️ [Newsletter](https://purpleterminal.substack.com/)
 - 🔗 [LinkedIn](https://linkedin.com/in/nikhil1raghav)
+- 📝 [Curius](https://curius.app/nikhil-raghav)
 
 
 
